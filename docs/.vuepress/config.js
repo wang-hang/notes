@@ -1,5 +1,4 @@
 module.exports = {
-  base:'/notes/',
   title: "wanghang's Blog",
   description: 'wanghang de blog',
   configureWebpack:{
