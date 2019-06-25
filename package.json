@@ -9,7 +9,8 @@
   "dependencies": {},
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "start":"vuepress dev docs"
   },
   "author": "",
   "license": "ISC"
