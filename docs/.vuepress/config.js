@@ -20,6 +20,7 @@ module.exports = {
     sidebar:[
       ['/js-tricks/', 'JS-Tricks'],
       ['/css-tricks/', 'CSS-Tricks'],
+      ['/vim-notes/', 'Vim-Notes'],
     ],
     lastUpdated: 'Last Updated'
   }
